@@ -8,6 +8,7 @@ def home():
     <h1>Hello from CI/CD Pipeline 🚀</h1>
     <h2>GitHub + Jenkins + Docker + Ansible</h2>
     <p>Deployment Successfully Done With Automation Only!</p>
+    <p>Done by CICD!</p>
     """
 
 if __name__ == "__main__":
